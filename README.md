@@ -1,6 +1,6 @@
 # Hey, I'm Luka 👋
 
-Frontend Developer based in Tbilisi, Georgia 🇬🇪  
+Frontend Developer based in Tbilisi, Georgia 
 3+ years building production React and Next.js apps.
 
 ## 🛠️ Stack
