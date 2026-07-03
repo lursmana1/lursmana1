@@ -6,7 +6,8 @@ Frontend Developer based in Tbilisi, Georgia 🇬🇪
 ## 🛠️ Stack
 **Core:** React · Next.js · TypeScript · JavaScript (ES6+)  
 **Styling:** TailwindCSS · SCSS · Framer Motion  
-**State & Data:** Redux · React Query · WebSocket / STOMP  
+**State & Data:** Redux · React Query · WebSocket / STOMP · REST APIs  
+**UI Libraries:** Ant Design · DevExtreme
 **Backend (side projects):** NestJS · PostgreSQL  
 **Tooling:** Vite · Git · Jest · Postman
 
