@@ -21,5 +21,3 @@ Frontend Developer based in Tbilisi, Georgia
 ## 📫 Reach me
 lursmana921@gmail.com · [LinkedIn](https://linkedin.com/in/luka-lursmana)
 
-Done — go create that repo and paste it in. Should take 3 minutes.
-
