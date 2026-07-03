@@ -13,8 +13,11 @@ Frontend Developer based in Tbilisi, Georgia
 
 ## 🚀 What I've built
 - **gorush.gg** — Real-time gaming/wagering platform with WebSocket live features, Framer Motion animations, and a full admin dashboard
+- **Novatori Learning Portal** — React/Next.js platform with 1,000+ active users, real-time notifications, built and led frontend as tech lead
+- **Nesvi Voting Platform** — React/Next.js voting app scaled to 50,000+ users
 - **prava.ge** — Fullstack Georgian driving theory exam app (Next.js + NestJS + PostgreSQL + Google Auth)
 - **Paris Match** — Next.js news app with RSS feed integration and Open Graph support
+- 
 
 ## 📫 Reach me
 lursmana921@gmail.com · [LinkedIn](https://linkedin.com/in/luka-lursmana)
