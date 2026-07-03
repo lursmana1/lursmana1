@@ -17,7 +17,6 @@ Frontend Developer based in Tbilisi, Georgia
 - **Nesvi Voting Platform** — React/Next.js voting app scaled to 50,000+ users
 - **prava.ge** — Fullstack Georgian driving theory exam app (Next.js + NestJS + PostgreSQL + Google Auth)
 - **Paris Match** — Next.js news app with RSS feed integration and Open Graph support
-- 
 
 ## 📫 Reach me
 lursmana921@gmail.com · [LinkedIn](https://linkedin.com/in/luka-lursmana)
